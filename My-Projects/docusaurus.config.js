@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'My Projects ',
   tagline: 'All the projects I am building ',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/innovation.png',
 
   // Set the production url of your site here
   url: 'https://your-docusaurus-test-site.com',
