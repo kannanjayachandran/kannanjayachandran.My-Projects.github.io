@@ -11,16 +11,25 @@ const config = {
   favicon: 'img/innovation.png',
 
   // Set the production url of your site here
+<<<<<<< HEAD
   url: 'https://github.com/',
+=======
+  url: 'https://github.com',
+>>>>>>> main
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/kannanjayachandran.My-Projects.github.io/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'kannanjayachandran', // Usually your GitHub org/user name.
+<<<<<<< HEAD
   projectName: 'My-Project', // Usually your repo name.
   deploymentBranch: 'main',
+=======
+  projectName: 'kannanjayachandran.My-Projects.github.io', // Usually your repo name.
+  deploymentBranch: 'deployment',
+>>>>>>> main
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
