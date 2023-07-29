@@ -5,14 +5,4 @@ slug: /
 
 # My Projects
 
-Here are all the **projects** I have worked on. There are many projects ranging from simple **Web Development** projects to Complex end to end **Machine learning - Data Science** projects.
-
-## Web Development
-
-This section contains all the **Web Development** projects I have worked on.
-
-## Machine Learning - Data Science
-
-This section contains all the **Machine Learning - Data Science** projects I have worked on.
-
-> Note: I would be adding more projects to this section soon.
+**This is a simple website created using [Docusaurus 2](https://v2.docusaurus.io/), a modern static website generator.**
